@@ -1,5 +1,5 @@
 # PolaroidSkins
-A repository to collaborate on sx70/slr680/slr690 polaroid camera foldout skins. This repository was established after visiting the Brooklyn Film Camera 2021 NYC Film Meet. I was inpsired by the generoisity and kindness of the film community and wanted to give something back. 
+A repository to collaborate on polaroid camera skins and stickers. This repository was established after visiting the Brooklyn Film Camera 2021 NYC Film Meet. I was inpsired by the generoisity and kindness of the film community and wanted to give something back. 
 
 #SX-70 Initial commit 
 This initial prototype is based on dimensions acquired from https://www.thingiverse.com/thing:4879934. The corner accuracy could be improved.
